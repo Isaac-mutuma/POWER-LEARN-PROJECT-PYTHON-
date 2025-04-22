@@ -1,0 +1,6 @@
+How It Works:
+input() prompts the user.
+
+try...except handles file errors.
+
+The file content is transformed (here it’s converted to uppercase).
